@@ -1,0 +1,7 @@
+res://default_bus_layout.tres
+res://main/main.tscn
+res://player/bullet/effect/BlastMaterial.tres
+res://enemies/red_robot/laser/EmberTrailCutoff.tres
+res://enemies/red_robot/laser/smoke.tres
+res://enemies/red_robot/parts/EvilRobo.tres
+res://effects_shared/blob_shadow.tres
